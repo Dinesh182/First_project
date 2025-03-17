@@ -1,0 +1,9 @@
+{
+	"name": "First182",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "317552b6-185b-43b8-9628-701d0f2a2e18",
+		"tenantId": "432d2435-8990-4e75-9120-29e1cc2edca0"
+	}
+}
